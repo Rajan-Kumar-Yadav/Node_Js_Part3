@@ -1,4 +1,3 @@
-const home = require("../models/home");
 const Home = require("../models/home");
 const User = require("../models/User");
 exports.getIndex = (req, res, next) => {
